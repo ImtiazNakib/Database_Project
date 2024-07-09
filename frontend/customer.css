@@ -1,0 +1,20 @@
+.img{
+    margin-left: 460px;
+}
+
+.feedback{
+    margin-bottom: 100px;
+   
+}
+
+.check_out_button{
+    background-color: orange;
+}
+
+.logout_button{
+    background-color: red;
+}
+
+.confirm_button{
+    background-color: darkkhaki;
+}

@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-size: cover;
+}
+
+.registration-form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    
+}
+
+.registration-form h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: green;
+    margin-left: -320px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.registration-form input{
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+
+.registration-form p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.registration-form button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border: 0;
+    border-radius: 5px;
+
+}
+
+.registration-form button:hover{
+    color:bisque;
+}
+
+.registration-form label{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px 40px;
+   
+}
+
+.registration-form option{
+    font-size: 22px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    
+   
+}
+
+
+
+
+.registration-form table, th {
+    border: none;
+    border-collapse: collapse;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 1px;
+    margin-left: -400px;
+   
+  }
